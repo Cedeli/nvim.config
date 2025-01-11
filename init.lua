@@ -1,0 +1,7 @@
+require("config.base")
+require("config.lazy")
+require("config.lsp")
+require("config.lualine")
+require("config.gitsigns")
+require("config.cmp.init")
+require("config.cmp.luasnip")
